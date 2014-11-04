@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/pivotal-cf/docs-bookbinder
+  remote: https://github.com/cloudfoundry-incubator/bookbinder
   revision: 90b6a3c2f23a7c45e599e118e06dee149b294ba9
   specs:
     bookbinder (0.2.4)
