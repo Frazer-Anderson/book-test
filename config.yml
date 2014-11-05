@@ -3,5 +3,5 @@ book_repo: The-Reaper-Man/book-test
 
 sections:
 - repository:
-  name: Big Data Pricing
-  directory: BigDataPricing
+    name: The-Reaper-Man/bookbinder--test
+  directory: test
