@@ -1,3 +1,7 @@
 ---
 book_repo: The-Reaper-Man/book-test
 
+sections:
+- repository:
+  name: Big Data Pricing
+  directory: BigDataPricing
